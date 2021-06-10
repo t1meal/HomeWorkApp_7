@@ -25,4 +25,5 @@ public class Plate {
         food += f;
         System.out.println("В тарелку добавили " + f + " единиц еды!");
     }
+
 }

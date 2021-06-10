@@ -32,5 +32,6 @@ public class Main {
         firstPlate.addFood(50);
 
         firstPlate.infoPlate();
+
     }
 }

@@ -20,4 +20,5 @@ public class Cat {
             System.out.println("Кот " + name + " голодный!");
         }
     }
+
 }
